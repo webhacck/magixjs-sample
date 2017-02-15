@@ -1,2 +1,2 @@
 # magixjs-sample
-MagiXJSwo
+MagiXJSを使ったサンプルデモのソースコードです。
